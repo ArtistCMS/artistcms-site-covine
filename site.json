@@ -13,7 +13,7 @@
     "--tertiary-color": "#000000",
     "--quaternary-color": "#000000",
     "--text-color": "#000000",
-    "--logo-width": "25%"
+    "--logo-width": "90%"
   },
   "head": {
     "title": null,
