@@ -32,10 +32,13 @@
     "releases": [
       "https://philipjewell.bandcamp.com/track/there-is-no-end",
       "https://philipjewell.bandcamp.com/track/the-fifteenth",
-      "https://philipjewell.bandcamp.com/track/reduced-to-nothing"
+      "https://philipjewell.bandcamp.com/track/reduced-to-nothing",
+      "https://philipjewell.bandcamp.com/track/valediction",
+      "https://philipjewell.bandcamp.com/track/no-virtue-no-victory"
     ],
     "socials": {
-      "lastfm": "https://www.last.fm/music/Covine"
+      "lastfm": "https://www.last.fm/music/Covine",
+      "myspace": "http://myspace.com/covineofficial"
     },
     "gallery": {
       "0": {
@@ -99,7 +102,7 @@
         "order": 11
       }
     },
-    "": "Alive Sarah Photography @ UB's. April 24 2010"
+    "": "https://philipjewell.bandcamp.com/track/no-virtue-no-victory"
   },
   "headerOptions": {
     "showName": true,
