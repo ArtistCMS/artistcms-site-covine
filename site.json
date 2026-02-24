@@ -16,7 +16,7 @@
     "--logo-width": "100%",
     "backgroundImage": "images/background.jpg",
     "backgroundPosition": "center top",
-    "backgroundSize": "contain"
+    "backgroundSize": "cover"
   },
   "head": {
     "title": null,
