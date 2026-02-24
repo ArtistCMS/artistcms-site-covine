@@ -22,12 +22,12 @@
     "google_analytics": null
   },
   "app": {
-    "logo": null,
+    "logo": "images/logo.png",
     "bandsintown": null,
     "bio": {
       "name": "Covine",
       "genre": null,
-      "about": "Covine is a five piece metal-core band from Phoenix, AZ. The band's origins stem from as late as 2008 as a four piece band with lead guitarist Alex Beltz also leading vocals. Towards late 2009, Molly Jordan stepped in to lead the bands clean and screaming vocals, backed by Jason Allen's clean vocals in order to leave Alex Beltz to focus on lead guitar.\n\nShortly after playing Arizona's Marquee Theatre, the band released their first EP 'There Is No End' on May 22nd, 2010.\nKnown for playing alongside acts like: Brian \"Head\" Welch, Miss May I, Keeping Secrets, Loren Battle, Laconic and moreÃ¢ÂÂ¦"
+      "about": "Covine is a five piece metal-core band from Phoenix, AZ. The band's origins stem from as late as 2008 as a four piece band with lead guitarist Alex Beltz also leading vocals. Towards late 2009, Molly Jordan stepped in to lead the bands clean and screaming vocals, backed by Jason Allen's clean vocals in order to leave Alex Beltz to focus on lead guitar.\n\nShortly after playing Arizona's Marquee Theatre, the band released their first EP 'There Is No End' on May 22nd, 2010.\nKnown for playing alongside acts like: Brian \"Head\" Welch, Miss May I, Keeping Secrets, Loren Battle, Laconic and moreÃÂ¢ÃÂÃÂ¦"
     },
     "releases": [
       "https://philipjewell.bandcamp.com/track/there-is-no-end",
