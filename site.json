@@ -8,8 +8,8 @@
     "gallery"
   ],
   "css": {
-    "--primary-color": "#2563eb",
-    "--secondary-color": "#000000",
+    "--primary-color": "#817a75",
+    "--secondary-color": "#5c5c5c",
     "--tertiary-color": "#000000",
     "--quaternary-color": "#000000",
     "--text-color": "#000000",
