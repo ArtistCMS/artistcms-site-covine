@@ -4,7 +4,8 @@
     "header",
     "bio",
     "releases",
-    "socials"
+    "socials",
+    "gallery"
   ],
   "css": {
     "--primary-color": "#2563eb",
@@ -26,7 +27,7 @@
     "bio": {
       "name": "Covine",
       "genre": null,
-      "about": "Covine is a five piece metal-core band from Phoenix, AZ. The band's origins stem from as late as 2008 as a four piece band with lead guitarist Alex Beltz also leading vocals. Towards late 2009, Molly Jordan stepped in to lead the bands clean and screaming vocals, backed by Jason Allen's clean vocals in order to leave Alex Beltz to focus on lead guitar.\n\nShortly after playing Arizona's Marquee Theatre, the band released their first EP 'There Is No End' on May 22nd, 2010.\nKnown for playing alongside acts like: Brian \"Head\" Welch, Miss May I, Keeping Secrets, Loren Battle, Laconic and more…"
+      "about": "Covine is a five piece metal-core band from Phoenix, AZ. The band's origins stem from as late as 2008 as a four piece band with lead guitarist Alex Beltz also leading vocals. Towards late 2009, Molly Jordan stepped in to lead the bands clean and screaming vocals, backed by Jason Allen's clean vocals in order to leave Alex Beltz to focus on lead guitar.\n\nShortly after playing Arizona's Marquee Theatre, the band released their first EP 'There Is No End' on May 22nd, 2010.\nKnown for playing alongside acts like: Brian \"Head\" Welch, Miss May I, Keeping Secrets, Loren Battle, Laconic and moreâ¦"
     },
     "releases": [
       "https://philipjewell.bandcamp.com/track/there-is-no-end",
@@ -36,8 +37,19 @@
     "socials": {
       "lastfm": "https://www.last.fm/music/Covine"
     },
-    "gallery": {},
-    "": "https://philipjewell.bandcamp.com/track/reduced-to-nothing"
+    "gallery": {
+      "0": {
+        "path": "images/gallery/1771891167073.jpg",
+        "caption": "Photo by Ethan Beazley - Mesa",
+        "order": 0
+      },
+      "1": {
+        "path": "images/gallery/1771891182631.jpg",
+        "caption": "Photo by Ethan Beazley - Gilbert",
+        "order": 1
+      }
+    },
+    "": "Photo by Ethan Beazley - Gilbert"
   },
   "headerOptions": {
     "showName": true,
