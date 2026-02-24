@@ -46,12 +46,12 @@
     "gallery": {
       "0": {
         "path": "images/gallery/1771891167073.jpg",
-        "caption": "Photo by Ethan Beazley - Mesa",
+        "caption": "Ethan Beazley Photography - Mesa",
         "order": 0
       },
       "1": {
         "path": "images/gallery/1771891182631.jpg",
-        "caption": "Photo by Ethan Beazley - Gilbert",
+        "caption": "Ethan Beazley Photography - Gilbert",
         "order": 1
       },
       "2": {
@@ -105,7 +105,7 @@
         "order": 11
       }
     },
-    "": "Logo"
+    "": "Ethan Beazley Photography - Gilbert"
   },
   "headerOptions": {
     "showName": false,
